@@ -1,0 +1,36 @@
+* {
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+nav {
+    width: 980px;
+    height: 140px;
+    background-color: black;
+    margin-bottom: 15px;
+}
+h1 {
+    color: #fff;
+}
+
+#sidebar {
+    margin-right: 15px;
+    width: 270px;
+    height: 450px;
+    background-color: black;
+}
+.content {
+    display: flex;
+}
+#content {
+    width: 690px;
+    height: 450px;
+    background-color: black;
+}
+
+footer {
+    margin-top: 15px;
+    width: 980px;
+    height: 70px;
+    background-color: black;
+}
